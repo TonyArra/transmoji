@@ -1,0 +1,23 @@
+body {
+    padding-top: 5rem;
+}
+
+#main {
+    min-height: 800px;
+}
+
+footer {
+    text-align: center;
+}
+
+#filters {
+    margin-bottom: 1em;
+}
+
+#filters input {
+    margin-right: 4em;
+}
+
+label::after {
+    content: ':';
+}
